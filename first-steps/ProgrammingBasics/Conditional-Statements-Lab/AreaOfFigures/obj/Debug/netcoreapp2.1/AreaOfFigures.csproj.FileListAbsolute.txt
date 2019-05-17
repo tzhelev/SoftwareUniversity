@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Conditional-Statements-Lab\AreaOfFigures\bin\Debug\netcoreapp2.1\AreaOfFigures.deps.json
+D:\MSVS\Projects\Conditional-Statements-Lab\AreaOfFigures\bin\Debug\netcoreapp2.1\AreaOfFigures.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Lab\AreaOfFigures\bin\Debug\netcoreapp2.1\AreaOfFigures.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Lab\AreaOfFigures\bin\Debug\netcoreapp2.1\AreaOfFigures.dll
+D:\MSVS\Projects\Conditional-Statements-Lab\AreaOfFigures\bin\Debug\netcoreapp2.1\AreaOfFigures.pdb
+D:\MSVS\Projects\Conditional-Statements-Lab\AreaOfFigures\obj\Debug\netcoreapp2.1\AreaOfFigures.csprojAssemblyReference.cache
+D:\MSVS\Projects\Conditional-Statements-Lab\AreaOfFigures\obj\Debug\netcoreapp2.1\AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Lab\AreaOfFigures\obj\Debug\netcoreapp2.1\AreaOfFigures.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Lab\AreaOfFigures\obj\Debug\netcoreapp2.1\AreaOfFigures.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Lab\AreaOfFigures\obj\Debug\netcoreapp2.1\AreaOfFigures.dll
+D:\MSVS\Projects\Conditional-Statements-Lab\AreaOfFigures\obj\Debug\netcoreapp2.1\AreaOfFigures.pdb

@@ -1,0 +1,11 @@
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\bin\Debug\netcoreapp2.1\Travelling (unsolved).deps.json
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\bin\Debug\netcoreapp2.1\Travelling (unsolved).runtimeconfig.json
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\bin\Debug\netcoreapp2.1\Travelling (unsolved).runtimeconfig.dev.json
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\bin\Debug\netcoreapp2.1\Travelling (unsolved).dll
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\bin\Debug\netcoreapp2.1\Travelling (unsolved).pdb
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling (unsolved).csprojAssemblyReference.cache
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling (unsolved).csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling (unsolved).AssemblyInfoInputs.cache
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling (unsolved).AssemblyInfo.cs
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling (unsolved).dll
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling (unsolved).pdb

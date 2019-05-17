@@ -1,0 +1,11 @@
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\bin\Debug\netcoreapp2.1\Travelling.deps.json
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\bin\Debug\netcoreapp2.1\Travelling.runtimeconfig.json
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\bin\Debug\netcoreapp2.1\Travelling.runtimeconfig.dev.json
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\bin\Debug\netcoreapp2.1\Travelling.dll
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\bin\Debug\netcoreapp2.1\Travelling.pdb
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling.AssemblyInfoInputs.cache
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling.AssemblyInfo.cs
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling.dll
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling.pdb
+D:\MSVS\Projects\NestedLoops-Lab\Travelling\obj\Debug\netcoreapp2.1\Travelling.csprojAssemblyReference.cache

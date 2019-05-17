@@ -1,0 +1,11 @@
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs Battle\bin\Debug\netcoreapp2.1\Easter Eggs Battle.deps.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs Battle\bin\Debug\netcoreapp2.1\Easter Eggs Battle.runtimeconfig.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs Battle\bin\Debug\netcoreapp2.1\Easter Eggs Battle.runtimeconfig.dev.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs Battle\bin\Debug\netcoreapp2.1\Easter Eggs Battle.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs Battle\bin\Debug\netcoreapp2.1\Easter Eggs Battle.pdb
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs Battle\obj\Debug\netcoreapp2.1\Easter Eggs Battle.csprojAssemblyReference.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs Battle\obj\Debug\netcoreapp2.1\Easter Eggs Battle.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs Battle\obj\Debug\netcoreapp2.1\Easter Eggs Battle.AssemblyInfoInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs Battle\obj\Debug\netcoreapp2.1\Easter Eggs Battle.AssemblyInfo.cs
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs Battle\obj\Debug\netcoreapp2.1\Easter Eggs Battle.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs Battle\obj\Debug\netcoreapp2.1\Easter Eggs Battle.pdb

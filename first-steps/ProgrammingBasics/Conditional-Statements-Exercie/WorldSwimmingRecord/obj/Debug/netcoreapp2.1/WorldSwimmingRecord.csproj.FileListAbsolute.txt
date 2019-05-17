@@ -1,0 +1,10 @@
+D:\MSVS\Projects\Conditional-Statements-Exercie\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.deps.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\WorldSwimmingRecord\bin\Debug\netcoreapp2.1\WorldSwimmingRecord.pdb
+D:\MSVS\Projects\Conditional-Statements-Exercie\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Exercie\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\WorldSwimmingRecord\obj\Debug\netcoreapp2.1\WorldSwimmingRecord.pdb

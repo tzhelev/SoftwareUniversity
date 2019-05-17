@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Conditional-Statements-Exercie\Practice\bin\Debug\netcoreapp2.1\Practice.deps.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\Practice\bin\Debug\netcoreapp2.1\Practice.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\Practice\bin\Debug\netcoreapp2.1\Practice.pdb
+D:\MSVS\Projects\Conditional-Statements-Exercie\Practice\obj\Debug\netcoreapp2.1\Practice.csprojAssemblyReference.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\Practice\obj\Debug\netcoreapp2.1\Practice.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Exercie\Practice\obj\Debug\netcoreapp2.1\Practice.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\Practice\obj\Debug\netcoreapp2.1\Practice.pdb

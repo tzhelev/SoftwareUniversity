@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Conditional-Statements-Exercie\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.deps.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\SumSeconds\bin\Debug\netcoreapp2.1\SumSeconds.pdb
+D:\MSVS\Projects\Conditional-Statements-Exercie\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.csprojAssemblyReference.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Exercie\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\SumSeconds\obj\Debug\netcoreapp2.1\SumSeconds.pdb

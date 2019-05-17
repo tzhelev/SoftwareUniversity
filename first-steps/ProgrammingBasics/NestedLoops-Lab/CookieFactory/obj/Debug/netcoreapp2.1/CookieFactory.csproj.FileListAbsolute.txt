@@ -1,0 +1,10 @@
+D:\MSVS\Projects\NestedLoops-Lab\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.deps.json
+D:\MSVS\Projects\NestedLoops-Lab\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.runtimeconfig.json
+D:\MSVS\Projects\NestedLoops-Lab\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.runtimeconfig.dev.json
+D:\MSVS\Projects\NestedLoops-Lab\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.dll
+D:\MSVS\Projects\NestedLoops-Lab\CookieFactory\bin\Debug\netcoreapp2.1\CookieFactory.pdb
+D:\MSVS\Projects\NestedLoops-Lab\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\NestedLoops-Lab\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.AssemblyInfoInputs.cache
+D:\MSVS\Projects\NestedLoops-Lab\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.AssemblyInfo.cs
+D:\MSVS\Projects\NestedLoops-Lab\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.dll
+D:\MSVS\Projects\NestedLoops-Lab\CookieFactory\obj\Debug\netcoreapp2.1\CookieFactory.pdb

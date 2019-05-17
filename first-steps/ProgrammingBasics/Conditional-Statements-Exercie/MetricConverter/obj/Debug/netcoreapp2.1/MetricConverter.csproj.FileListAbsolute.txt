@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Conditional-Statements-Exercie\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.csprojAssemblyReference.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Exercie\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.deps.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\MetricConverter\bin\Debug\netcoreapp2.1\MetricConverter.pdb
+D:\MSVS\Projects\Conditional-Statements-Exercie\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\MetricConverter\obj\Debug\netcoreapp2.1\MetricConverter.pdb

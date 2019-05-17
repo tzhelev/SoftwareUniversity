@@ -1,0 +1,10 @@
+D:\MSVS\Projects\For-Loop-Exercise\EqualPairs\bin\Debug\netcoreapp2.1\EqualPairs.deps.json
+D:\MSVS\Projects\For-Loop-Exercise\EqualPairs\bin\Debug\netcoreapp2.1\EqualPairs.runtimeconfig.json
+D:\MSVS\Projects\For-Loop-Exercise\EqualPairs\bin\Debug\netcoreapp2.1\EqualPairs.runtimeconfig.dev.json
+D:\MSVS\Projects\For-Loop-Exercise\EqualPairs\bin\Debug\netcoreapp2.1\EqualPairs.dll
+D:\MSVS\Projects\For-Loop-Exercise\EqualPairs\bin\Debug\netcoreapp2.1\EqualPairs.pdb
+D:\MSVS\Projects\For-Loop-Exercise\EqualPairs\obj\Debug\netcoreapp2.1\EqualPairs.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\For-Loop-Exercise\EqualPairs\obj\Debug\netcoreapp2.1\EqualPairs.AssemblyInfoInputs.cache
+D:\MSVS\Projects\For-Loop-Exercise\EqualPairs\obj\Debug\netcoreapp2.1\EqualPairs.AssemblyInfo.cs
+D:\MSVS\Projects\For-Loop-Exercise\EqualPairs\obj\Debug\netcoreapp2.1\EqualPairs.dll
+D:\MSVS\Projects\For-Loop-Exercise\EqualPairs\obj\Debug\netcoreapp2.1\EqualPairs.pdb

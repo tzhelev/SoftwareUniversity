@@ -1,0 +1,11 @@
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Strong number\obj\Debug\netcoreapp2.2\Strong number.csprojAssemblyReference.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Strong number\obj\Debug\netcoreapp2.2\Strong number.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Strong number\obj\Debug\netcoreapp2.2\Strong number.AssemblyInfoInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Strong number\obj\Debug\netcoreapp2.2\Strong number.AssemblyInfo.cs
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Strong number\bin\Debug\netcoreapp2.2\Strong number.deps.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Strong number\bin\Debug\netcoreapp2.2\Strong number.runtimeconfig.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Strong number\bin\Debug\netcoreapp2.2\Strong number.runtimeconfig.dev.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Strong number\bin\Debug\netcoreapp2.2\Strong number.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Strong number\bin\Debug\netcoreapp2.2\Strong number.pdb
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Strong number\obj\Debug\netcoreapp2.2\Strong number.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Strong number\obj\Debug\netcoreapp2.2\Strong number.pdb

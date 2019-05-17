@@ -1,0 +1,10 @@
+D:\MSVS\Projects\While-Loop-Exercise\Walking\bin\Debug\netcoreapp2.1\Walking.deps.json
+D:\MSVS\Projects\While-Loop-Exercise\Walking\bin\Debug\netcoreapp2.1\Walking.runtimeconfig.json
+D:\MSVS\Projects\While-Loop-Exercise\Walking\bin\Debug\netcoreapp2.1\Walking.runtimeconfig.dev.json
+D:\MSVS\Projects\While-Loop-Exercise\Walking\bin\Debug\netcoreapp2.1\Walking.dll
+D:\MSVS\Projects\While-Loop-Exercise\Walking\bin\Debug\netcoreapp2.1\Walking.pdb
+D:\MSVS\Projects\While-Loop-Exercise\Walking\obj\Debug\netcoreapp2.1\Walking.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\While-Loop-Exercise\Walking\obj\Debug\netcoreapp2.1\Walking.AssemblyInfoInputs.cache
+D:\MSVS\Projects\While-Loop-Exercise\Walking\obj\Debug\netcoreapp2.1\Walking.AssemblyInfo.cs
+D:\MSVS\Projects\While-Loop-Exercise\Walking\obj\Debug\netcoreapp2.1\Walking.dll
+D:\MSVS\Projects\While-Loop-Exercise\Walking\obj\Debug\netcoreapp2.1\Walking.pdb

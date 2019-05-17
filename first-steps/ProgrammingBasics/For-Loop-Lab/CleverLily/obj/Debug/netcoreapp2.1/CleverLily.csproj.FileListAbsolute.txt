@@ -1,0 +1,11 @@
+D:\MSVS\Projects\For-Loop-Lab\CleverLily\bin\Debug\netcoreapp2.1\CleverLily.deps.json
+D:\MSVS\Projects\For-Loop-Lab\CleverLily\bin\Debug\netcoreapp2.1\CleverLily.runtimeconfig.json
+D:\MSVS\Projects\For-Loop-Lab\CleverLily\bin\Debug\netcoreapp2.1\CleverLily.runtimeconfig.dev.json
+D:\MSVS\Projects\For-Loop-Lab\CleverLily\bin\Debug\netcoreapp2.1\CleverLily.dll
+D:\MSVS\Projects\For-Loop-Lab\CleverLily\bin\Debug\netcoreapp2.1\CleverLily.pdb
+D:\MSVS\Projects\For-Loop-Lab\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.csprojAssemblyReference.cache
+D:\MSVS\Projects\For-Loop-Lab\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.AssemblyInfoInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.AssemblyInfo.cs
+D:\MSVS\Projects\For-Loop-Lab\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.dll
+D:\MSVS\Projects\For-Loop-Lab\CleverLily\obj\Debug\netcoreapp2.1\CleverLily.pdb

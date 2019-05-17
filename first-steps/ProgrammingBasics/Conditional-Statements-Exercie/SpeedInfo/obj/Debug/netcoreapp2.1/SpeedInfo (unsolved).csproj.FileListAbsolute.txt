@@ -1,0 +1,10 @@
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\bin\Debug\netcoreapp2.1\SpeedInfo (unsolved).deps.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\bin\Debug\netcoreapp2.1\SpeedInfo (unsolved).runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\bin\Debug\netcoreapp2.1\SpeedInfo (unsolved).runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\bin\Debug\netcoreapp2.1\SpeedInfo (unsolved).dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\bin\Debug\netcoreapp2.1\SpeedInfo (unsolved).pdb
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\obj\Debug\netcoreapp2.1\SpeedInfo (unsolved).csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\obj\Debug\netcoreapp2.1\SpeedInfo (unsolved).AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\obj\Debug\netcoreapp2.1\SpeedInfo (unsolved).AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\obj\Debug\netcoreapp2.1\SpeedInfo (unsolved).dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\obj\Debug\netcoreapp2.1\SpeedInfo (unsolved).pdb

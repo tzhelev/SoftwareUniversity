@@ -1,0 +1,10 @@
+D:\MSVS\Projects\While-Loop-Lab\MaxNumber\bin\Debug\netcoreapp2.1\MaxNumber.deps.json
+D:\MSVS\Projects\While-Loop-Lab\MaxNumber\bin\Debug\netcoreapp2.1\MaxNumber.runtimeconfig.json
+D:\MSVS\Projects\While-Loop-Lab\MaxNumber\bin\Debug\netcoreapp2.1\MaxNumber.runtimeconfig.dev.json
+D:\MSVS\Projects\While-Loop-Lab\MaxNumber\bin\Debug\netcoreapp2.1\MaxNumber.dll
+D:\MSVS\Projects\While-Loop-Lab\MaxNumber\bin\Debug\netcoreapp2.1\MaxNumber.pdb
+D:\MSVS\Projects\While-Loop-Lab\MaxNumber\obj\Debug\netcoreapp2.1\MaxNumber.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\While-Loop-Lab\MaxNumber\obj\Debug\netcoreapp2.1\MaxNumber.AssemblyInfoInputs.cache
+D:\MSVS\Projects\While-Loop-Lab\MaxNumber\obj\Debug\netcoreapp2.1\MaxNumber.AssemblyInfo.cs
+D:\MSVS\Projects\While-Loop-Lab\MaxNumber\obj\Debug\netcoreapp2.1\MaxNumber.dll
+D:\MSVS\Projects\While-Loop-Lab\MaxNumber\obj\Debug\netcoreapp2.1\MaxNumber.pdb

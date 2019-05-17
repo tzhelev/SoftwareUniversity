@@ -1,0 +1,11 @@
+D:\MSVS\Projects\While-Loop-Lab\AccountBalance\bin\Debug\netcoreapp2.1\AccountBalance.deps.json
+D:\MSVS\Projects\While-Loop-Lab\AccountBalance\bin\Debug\netcoreapp2.1\AccountBalance.runtimeconfig.json
+D:\MSVS\Projects\While-Loop-Lab\AccountBalance\bin\Debug\netcoreapp2.1\AccountBalance.runtimeconfig.dev.json
+D:\MSVS\Projects\While-Loop-Lab\AccountBalance\bin\Debug\netcoreapp2.1\AccountBalance.dll
+D:\MSVS\Projects\While-Loop-Lab\AccountBalance\bin\Debug\netcoreapp2.1\AccountBalance.pdb
+D:\MSVS\Projects\While-Loop-Lab\AccountBalance\obj\Debug\netcoreapp2.1\AccountBalance.csprojAssemblyReference.cache
+D:\MSVS\Projects\While-Loop-Lab\AccountBalance\obj\Debug\netcoreapp2.1\AccountBalance.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\While-Loop-Lab\AccountBalance\obj\Debug\netcoreapp2.1\AccountBalance.AssemblyInfoInputs.cache
+D:\MSVS\Projects\While-Loop-Lab\AccountBalance\obj\Debug\netcoreapp2.1\AccountBalance.AssemblyInfo.cs
+D:\MSVS\Projects\While-Loop-Lab\AccountBalance\obj\Debug\netcoreapp2.1\AccountBalance.dll
+D:\MSVS\Projects\While-Loop-Lab\AccountBalance\obj\Debug\netcoreapp2.1\AccountBalance.pdb

@@ -1,0 +1,11 @@
+D:\MSVS\Projects\For-Loop-Lab\VowelsSum\obj\Debug\netcoreapp2.1\VowelsSum.csprojAssemblyReference.cache
+D:\MSVS\Projects\For-Loop-Lab\VowelsSum\obj\Debug\netcoreapp2.1\VowelsSum.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\VowelsSum\obj\Debug\netcoreapp2.1\VowelsSum.AssemblyInfoInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\VowelsSum\obj\Debug\netcoreapp2.1\VowelsSum.AssemblyInfo.cs
+D:\MSVS\Projects\For-Loop-Lab\VowelsSum\bin\Debug\netcoreapp2.1\VowelsSum.deps.json
+D:\MSVS\Projects\For-Loop-Lab\VowelsSum\bin\Debug\netcoreapp2.1\VowelsSum.runtimeconfig.json
+D:\MSVS\Projects\For-Loop-Lab\VowelsSum\bin\Debug\netcoreapp2.1\VowelsSum.runtimeconfig.dev.json
+D:\MSVS\Projects\For-Loop-Lab\VowelsSum\bin\Debug\netcoreapp2.1\VowelsSum.dll
+D:\MSVS\Projects\For-Loop-Lab\VowelsSum\bin\Debug\netcoreapp2.1\VowelsSum.pdb
+D:\MSVS\Projects\For-Loop-Lab\VowelsSum\obj\Debug\netcoreapp2.1\VowelsSum.dll
+D:\MSVS\Projects\For-Loop-Lab\VowelsSum\obj\Debug\netcoreapp2.1\VowelsSum.pdb

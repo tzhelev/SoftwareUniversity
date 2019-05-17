@@ -1,0 +1,10 @@
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Print and Sum\bin\Debug\netcoreapp2.2\Print and Sum.deps.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Print and Sum\bin\Debug\netcoreapp2.2\Print and Sum.runtimeconfig.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Print and Sum\bin\Debug\netcoreapp2.2\Print and Sum.runtimeconfig.dev.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Print and Sum\bin\Debug\netcoreapp2.2\Print and Sum.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Print and Sum\bin\Debug\netcoreapp2.2\Print and Sum.pdb
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Print and Sum\obj\Debug\netcoreapp2.2\Print and Sum.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Print and Sum\obj\Debug\netcoreapp2.2\Print and Sum.AssemblyInfoInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Print and Sum\obj\Debug\netcoreapp2.2\Print and Sum.AssemblyInfo.cs
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Print and Sum\obj\Debug\netcoreapp2.2\Print and Sum.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Print and Sum\obj\Debug\netcoreapp2.2\Print and Sum.pdb

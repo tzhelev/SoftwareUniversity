@@ -1,0 +1,11 @@
+D:\MSVS\Projects\While-Loop-Exercise\Coins\bin\Debug\netcoreapp2.1\Coins.deps.json
+D:\MSVS\Projects\While-Loop-Exercise\Coins\bin\Debug\netcoreapp2.1\Coins.runtimeconfig.json
+D:\MSVS\Projects\While-Loop-Exercise\Coins\bin\Debug\netcoreapp2.1\Coins.runtimeconfig.dev.json
+D:\MSVS\Projects\While-Loop-Exercise\Coins\bin\Debug\netcoreapp2.1\Coins.dll
+D:\MSVS\Projects\While-Loop-Exercise\Coins\bin\Debug\netcoreapp2.1\Coins.pdb
+D:\MSVS\Projects\While-Loop-Exercise\Coins\obj\Debug\netcoreapp2.1\Coins.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\While-Loop-Exercise\Coins\obj\Debug\netcoreapp2.1\Coins.AssemblyInfoInputs.cache
+D:\MSVS\Projects\While-Loop-Exercise\Coins\obj\Debug\netcoreapp2.1\Coins.AssemblyInfo.cs
+D:\MSVS\Projects\While-Loop-Exercise\Coins\obj\Debug\netcoreapp2.1\Coins.dll
+D:\MSVS\Projects\While-Loop-Exercise\Coins\obj\Debug\netcoreapp2.1\Coins.pdb
+D:\MSVS\Projects\While-Loop-Exercise\Coins\obj\Debug\netcoreapp2.1\Coins.csprojAssemblyReference.cache

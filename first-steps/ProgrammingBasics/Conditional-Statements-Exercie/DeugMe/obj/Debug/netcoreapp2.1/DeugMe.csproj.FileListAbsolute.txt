@@ -1,0 +1,10 @@
+D:\MSVS\Projects\Conditional-Statements-Exercie\DeugMe\bin\Debug\netcoreapp2.1\DeugMe.deps.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\DeugMe\bin\Debug\netcoreapp2.1\DeugMe.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\DeugMe\bin\Debug\netcoreapp2.1\DeugMe.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\DeugMe\bin\Debug\netcoreapp2.1\DeugMe.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\DeugMe\bin\Debug\netcoreapp2.1\DeugMe.pdb
+D:\MSVS\Projects\Conditional-Statements-Exercie\DeugMe\obj\Debug\netcoreapp2.1\DeugMe.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\DeugMe\obj\Debug\netcoreapp2.1\DeugMe.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\DeugMe\obj\Debug\netcoreapp2.1\DeugMe.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Exercie\DeugMe\obj\Debug\netcoreapp2.1\DeugMe.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\DeugMe\obj\Debug\netcoreapp2.1\DeugMe.pdb

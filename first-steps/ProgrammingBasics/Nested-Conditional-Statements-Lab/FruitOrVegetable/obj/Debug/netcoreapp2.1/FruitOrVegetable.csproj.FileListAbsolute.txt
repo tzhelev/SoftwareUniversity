@@ -1,0 +1,10 @@
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitOrVegetable\obj\Debug\netcoreapp2.1\FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitOrVegetable\obj\Debug\netcoreapp2.1\FruitOrVegetable.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitOrVegetable\obj\Debug\netcoreapp2.1\FruitOrVegetable.AssemblyInfo.cs
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitOrVegetable\bin\Debug\netcoreapp2.1\FruitOrVegetable.deps.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitOrVegetable\bin\Debug\netcoreapp2.1\FruitOrVegetable.runtimeconfig.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitOrVegetable\bin\Debug\netcoreapp2.1\FruitOrVegetable.runtimeconfig.dev.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitOrVegetable\bin\Debug\netcoreapp2.1\FruitOrVegetable.dll
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitOrVegetable\bin\Debug\netcoreapp2.1\FruitOrVegetable.pdb
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitOrVegetable\obj\Debug\netcoreapp2.1\FruitOrVegetable.dll
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitOrVegetable\obj\Debug\netcoreapp2.1\FruitOrVegetable.pdb

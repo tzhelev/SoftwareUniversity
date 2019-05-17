@@ -1,0 +1,4 @@
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\obj\Debug\netcoreapp2.1\SpeedInfo.csprojAssemblyReference.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\obj\Debug\netcoreapp2.1\SpeedInfo.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\obj\Debug\netcoreapp2.1\SpeedInfo.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\SpeedInfo\obj\Debug\netcoreapp2.1\SpeedInfo.AssemblyInfo.cs

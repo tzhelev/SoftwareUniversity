@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitShop\obj\Debug\netcoreapp2.1\FruitShop.csprojAssemblyReference.cache
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitShop\obj\Debug\netcoreapp2.1\FruitShop.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitShop\obj\Debug\netcoreapp2.1\FruitShop.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitShop\obj\Debug\netcoreapp2.1\FruitShop.AssemblyInfo.cs
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitShop\bin\Debug\netcoreapp2.1\FruitShop.deps.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitShop\bin\Debug\netcoreapp2.1\FruitShop.runtimeconfig.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitShop\bin\Debug\netcoreapp2.1\FruitShop.runtimeconfig.dev.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitShop\bin\Debug\netcoreapp2.1\FruitShop.dll
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitShop\bin\Debug\netcoreapp2.1\FruitShop.pdb
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitShop\obj\Debug\netcoreapp2.1\FruitShop.dll
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\FruitShop\obj\Debug\netcoreapp2.1\FruitShop.pdb

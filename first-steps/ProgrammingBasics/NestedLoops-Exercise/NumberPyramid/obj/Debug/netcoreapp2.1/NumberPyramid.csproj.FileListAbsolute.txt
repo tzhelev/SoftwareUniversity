@@ -1,0 +1,11 @@
+D:\MSVS\Projects\NestedLoops-Exercise\NumberPyramid\bin\Debug\netcoreapp2.1\NumberPyramid.deps.json
+D:\MSVS\Projects\NestedLoops-Exercise\NumberPyramid\bin\Debug\netcoreapp2.1\NumberPyramid.runtimeconfig.json
+D:\MSVS\Projects\NestedLoops-Exercise\NumberPyramid\bin\Debug\netcoreapp2.1\NumberPyramid.runtimeconfig.dev.json
+D:\MSVS\Projects\NestedLoops-Exercise\NumberPyramid\bin\Debug\netcoreapp2.1\NumberPyramid.dll
+D:\MSVS\Projects\NestedLoops-Exercise\NumberPyramid\bin\Debug\netcoreapp2.1\NumberPyramid.pdb
+D:\MSVS\Projects\NestedLoops-Exercise\NumberPyramid\obj\Debug\netcoreapp2.1\NumberPyramid.csprojAssemblyReference.cache
+D:\MSVS\Projects\NestedLoops-Exercise\NumberPyramid\obj\Debug\netcoreapp2.1\NumberPyramid.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\NestedLoops-Exercise\NumberPyramid\obj\Debug\netcoreapp2.1\NumberPyramid.AssemblyInfoInputs.cache
+D:\MSVS\Projects\NestedLoops-Exercise\NumberPyramid\obj\Debug\netcoreapp2.1\NumberPyramid.AssemblyInfo.cs
+D:\MSVS\Projects\NestedLoops-Exercise\NumberPyramid\obj\Debug\netcoreapp2.1\NumberPyramid.dll
+D:\MSVS\Projects\NestedLoops-Exercise\NumberPyramid\obj\Debug\netcoreapp2.1\NumberPyramid.pdb

@@ -1,0 +1,11 @@
+D:\MSVS\Projects\While-Loop-Exercise\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.deps.json
+D:\MSVS\Projects\While-Loop-Exercise\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.runtimeconfig.json
+D:\MSVS\Projects\While-Loop-Exercise\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.runtimeconfig.dev.json
+D:\MSVS\Projects\While-Loop-Exercise\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.dll
+D:\MSVS\Projects\While-Loop-Exercise\ExamPreparation\bin\Debug\netcoreapp2.1\ExamPreparation.pdb
+D:\MSVS\Projects\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.AssemblyInfoInputs.cache
+D:\MSVS\Projects\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.AssemblyInfo.cs
+D:\MSVS\Projects\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.dll
+D:\MSVS\Projects\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.pdb
+D:\MSVS\Projects\While-Loop-Exercise\ExamPreparation\obj\Debug\netcoreapp2.1\ExamPreparation.csprojAssemblyReference.cache

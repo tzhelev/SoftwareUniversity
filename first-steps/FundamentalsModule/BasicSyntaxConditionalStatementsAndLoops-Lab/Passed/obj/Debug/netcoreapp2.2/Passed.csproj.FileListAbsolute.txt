@@ -1,0 +1,11 @@
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Passed\bin\Debug\netcoreapp2.2\Passed.deps.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Passed\bin\Debug\netcoreapp2.2\Passed.runtimeconfig.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Passed\bin\Debug\netcoreapp2.2\Passed.runtimeconfig.dev.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Passed\bin\Debug\netcoreapp2.2\Passed.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Passed\bin\Debug\netcoreapp2.2\Passed.pdb
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Passed\obj\Debug\netcoreapp2.2\Passed.csprojAssemblyReference.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Passed\obj\Debug\netcoreapp2.2\Passed.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Passed\obj\Debug\netcoreapp2.2\Passed.AssemblyInfoInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Passed\obj\Debug\netcoreapp2.2\Passed.AssemblyInfo.cs
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Passed\obj\Debug\netcoreapp2.2\Passed.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Passed\obj\Debug\netcoreapp2.2\Passed.pdb

@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Conditional-Statements-Exercie\Time+15sec\obj\Debug\netcoreapp2.1\Time+15sec.csprojAssemblyReference.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\Time+15sec\obj\Debug\netcoreapp2.1\Time+15sec.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\Time+15sec\obj\Debug\netcoreapp2.1\Time+15sec.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\Time+15sec\obj\Debug\netcoreapp2.1\Time+15sec.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Exercie\Time+15sec\bin\Debug\netcoreapp2.1\Time+15sec.deps.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\Time+15sec\bin\Debug\netcoreapp2.1\Time+15sec.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\Time+15sec\bin\Debug\netcoreapp2.1\Time+15sec.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\Time+15sec\bin\Debug\netcoreapp2.1\Time+15sec.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\Time+15sec\bin\Debug\netcoreapp2.1\Time+15sec.pdb
+D:\MSVS\Projects\Conditional-Statements-Exercie\Time+15sec\obj\Debug\netcoreapp2.1\Time+15sec.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\Time+15sec\obj\Debug\netcoreapp2.1\Time+15sec.pdb

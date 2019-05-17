@@ -1,0 +1,11 @@
+D:\MSVS\Projects\For-Loop-Lab\SumNumbers\bin\Debug\netcoreapp2.1\SumNumbers.deps.json
+D:\MSVS\Projects\For-Loop-Lab\SumNumbers\bin\Debug\netcoreapp2.1\SumNumbers.runtimeconfig.json
+D:\MSVS\Projects\For-Loop-Lab\SumNumbers\bin\Debug\netcoreapp2.1\SumNumbers.runtimeconfig.dev.json
+D:\MSVS\Projects\For-Loop-Lab\SumNumbers\bin\Debug\netcoreapp2.1\SumNumbers.dll
+D:\MSVS\Projects\For-Loop-Lab\SumNumbers\bin\Debug\netcoreapp2.1\SumNumbers.pdb
+D:\MSVS\Projects\For-Loop-Lab\SumNumbers\obj\Debug\netcoreapp2.1\SumNumbers.csprojAssemblyReference.cache
+D:\MSVS\Projects\For-Loop-Lab\SumNumbers\obj\Debug\netcoreapp2.1\SumNumbers.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\SumNumbers\obj\Debug\netcoreapp2.1\SumNumbers.AssemblyInfoInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\SumNumbers\obj\Debug\netcoreapp2.1\SumNumbers.AssemblyInfo.cs
+D:\MSVS\Projects\For-Loop-Lab\SumNumbers\obj\Debug\netcoreapp2.1\SumNumbers.dll
+D:\MSVS\Projects\For-Loop-Lab\SumNumbers\obj\Debug\netcoreapp2.1\SumNumbers.pdb

@@ -1,0 +1,11 @@
+D:\MSVS\Projects\For-Loop-Exercise\HalfSumElement\bin\Debug\netcoreapp2.1\HalfSumElement.deps.json
+D:\MSVS\Projects\For-Loop-Exercise\HalfSumElement\bin\Debug\netcoreapp2.1\HalfSumElement.runtimeconfig.json
+D:\MSVS\Projects\For-Loop-Exercise\HalfSumElement\bin\Debug\netcoreapp2.1\HalfSumElement.runtimeconfig.dev.json
+D:\MSVS\Projects\For-Loop-Exercise\HalfSumElement\bin\Debug\netcoreapp2.1\HalfSumElement.dll
+D:\MSVS\Projects\For-Loop-Exercise\HalfSumElement\bin\Debug\netcoreapp2.1\HalfSumElement.pdb
+D:\MSVS\Projects\For-Loop-Exercise\HalfSumElement\obj\Debug\netcoreapp2.1\HalfSumElement.csprojAssemblyReference.cache
+D:\MSVS\Projects\For-Loop-Exercise\HalfSumElement\obj\Debug\netcoreapp2.1\HalfSumElement.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\For-Loop-Exercise\HalfSumElement\obj\Debug\netcoreapp2.1\HalfSumElement.AssemblyInfoInputs.cache
+D:\MSVS\Projects\For-Loop-Exercise\HalfSumElement\obj\Debug\netcoreapp2.1\HalfSumElement.AssemblyInfo.cs
+D:\MSVS\Projects\For-Loop-Exercise\HalfSumElement\obj\Debug\netcoreapp2.1\HalfSumElement.dll
+D:\MSVS\Projects\For-Loop-Exercise\HalfSumElement\obj\Debug\netcoreapp2.1\HalfSumElement.pdb

@@ -1,0 +1,11 @@
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\StudentInformation\bin\Debug\netcoreapp2.2\StudentInformation.deps.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\StudentInformation\bin\Debug\netcoreapp2.2\StudentInformation.runtimeconfig.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\StudentInformation\bin\Debug\netcoreapp2.2\StudentInformation.runtimeconfig.dev.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\StudentInformation\bin\Debug\netcoreapp2.2\StudentInformation.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\StudentInformation\bin\Debug\netcoreapp2.2\StudentInformation.pdb
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\StudentInformation\obj\Debug\netcoreapp2.2\StudentInformation.csprojAssemblyReference.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\StudentInformation\obj\Debug\netcoreapp2.2\StudentInformation.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\StudentInformation\obj\Debug\netcoreapp2.2\StudentInformation.AssemblyInfoInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\StudentInformation\obj\Debug\netcoreapp2.2\StudentInformation.AssemblyInfo.cs
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\StudentInformation\obj\Debug\netcoreapp2.2\StudentInformation.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\StudentInformation\obj\Debug\netcoreapp2.2\StudentInformation.pdb

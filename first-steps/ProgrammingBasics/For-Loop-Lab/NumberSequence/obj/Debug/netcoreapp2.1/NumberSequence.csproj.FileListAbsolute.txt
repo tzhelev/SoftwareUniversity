@@ -1,0 +1,11 @@
+D:\MSVS\Projects\For-Loop-Lab\NumberSequence\bin\Debug\netcoreapp2.1\NumberSequence.deps.json
+D:\MSVS\Projects\For-Loop-Lab\NumberSequence\bin\Debug\netcoreapp2.1\NumberSequence.runtimeconfig.json
+D:\MSVS\Projects\For-Loop-Lab\NumberSequence\bin\Debug\netcoreapp2.1\NumberSequence.runtimeconfig.dev.json
+D:\MSVS\Projects\For-Loop-Lab\NumberSequence\bin\Debug\netcoreapp2.1\NumberSequence.dll
+D:\MSVS\Projects\For-Loop-Lab\NumberSequence\bin\Debug\netcoreapp2.1\NumberSequence.pdb
+D:\MSVS\Projects\For-Loop-Lab\NumberSequence\obj\Debug\netcoreapp2.1\NumberSequence.csprojAssemblyReference.cache
+D:\MSVS\Projects\For-Loop-Lab\NumberSequence\obj\Debug\netcoreapp2.1\NumberSequence.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\NumberSequence\obj\Debug\netcoreapp2.1\NumberSequence.AssemblyInfoInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\NumberSequence\obj\Debug\netcoreapp2.1\NumberSequence.AssemblyInfo.cs
+D:\MSVS\Projects\For-Loop-Lab\NumberSequence\obj\Debug\netcoreapp2.1\NumberSequence.dll
+D:\MSVS\Projects\For-Loop-Lab\NumberSequence\obj\Debug\netcoreapp2.1\NumberSequence.pdb

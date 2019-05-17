@@ -1,0 +1,11 @@
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Guests\bin\Debug\netcoreapp2.1\Easter Guests.deps.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Guests\bin\Debug\netcoreapp2.1\Easter Guests.runtimeconfig.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Guests\bin\Debug\netcoreapp2.1\Easter Guests.runtimeconfig.dev.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Guests\bin\Debug\netcoreapp2.1\Easter Guests.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Guests\bin\Debug\netcoreapp2.1\Easter Guests.pdb
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Guests\obj\Debug\netcoreapp2.1\Easter Guests.csprojAssemblyReference.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Guests\obj\Debug\netcoreapp2.1\Easter Guests.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Guests\obj\Debug\netcoreapp2.1\Easter Guests.AssemblyInfoInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Guests\obj\Debug\netcoreapp2.1\Easter Guests.AssemblyInfo.cs
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Guests\obj\Debug\netcoreapp2.1\Easter Guests.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Guests\obj\Debug\netcoreapp2.1\Easter Guests.pdb

@@ -1,0 +1,11 @@
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Vacation\bin\Debug\netcoreapp2.2\Vacation.deps.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Vacation\bin\Debug\netcoreapp2.2\Vacation.runtimeconfig.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Vacation\bin\Debug\netcoreapp2.2\Vacation.runtimeconfig.dev.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Vacation\bin\Debug\netcoreapp2.2\Vacation.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Vacation\bin\Debug\netcoreapp2.2\Vacation.pdb
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Vacation\obj\Debug\netcoreapp2.2\Vacation.csprojAssemblyReference.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Vacation\obj\Debug\netcoreapp2.2\Vacation.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Vacation\obj\Debug\netcoreapp2.2\Vacation.AssemblyInfoInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Vacation\obj\Debug\netcoreapp2.2\Vacation.AssemblyInfo.cs
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Vacation\obj\Debug\netcoreapp2.2\Vacation.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Vacation\obj\Debug\netcoreapp2.2\Vacation.pdb

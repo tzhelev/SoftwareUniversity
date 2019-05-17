@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Conditional-Statements-Exercie\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.csprojAssemblyReference.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Exercie\BonusScore\bin\Debug\netcoreapp2.1\BonusScore.deps.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\BonusScore\bin\Debug\netcoreapp2.1\BonusScore.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\BonusScore\bin\Debug\netcoreapp2.1\BonusScore.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\BonusScore\bin\Debug\netcoreapp2.1\BonusScore.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\BonusScore\bin\Debug\netcoreapp2.1\BonusScore.pdb
+D:\MSVS\Projects\Conditional-Statements-Exercie\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\BonusScore\obj\Debug\netcoreapp2.1\BonusScore.pdb

@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\PersonalTitles\bin\Debug\netcoreapp2.1\PersonalTitles.deps.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\PersonalTitles\bin\Debug\netcoreapp2.1\PersonalTitles.runtimeconfig.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\PersonalTitles\bin\Debug\netcoreapp2.1\PersonalTitles.runtimeconfig.dev.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\PersonalTitles\bin\Debug\netcoreapp2.1\PersonalTitles.dll
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\PersonalTitles\bin\Debug\netcoreapp2.1\PersonalTitles.pdb
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.csprojAssemblyReference.cache
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.AssemblyInfo.cs
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.dll
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\PersonalTitles\obj\Debug\netcoreapp2.1\PersonalTitles.pdb

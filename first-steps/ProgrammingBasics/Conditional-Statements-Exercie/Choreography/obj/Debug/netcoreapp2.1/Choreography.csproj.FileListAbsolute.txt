@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Conditional-Statements-Exercie\Choreography\bin\Debug\netcoreapp2.1\Choreography.deps.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\Choreography\bin\Debug\netcoreapp2.1\Choreography.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\Choreography\bin\Debug\netcoreapp2.1\Choreography.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\Choreography\bin\Debug\netcoreapp2.1\Choreography.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\Choreography\bin\Debug\netcoreapp2.1\Choreography.pdb
+D:\MSVS\Projects\Conditional-Statements-Exercie\Choreography\obj\Debug\netcoreapp2.1\Choreography.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\Choreography\obj\Debug\netcoreapp2.1\Choreography.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\Choreography\obj\Debug\netcoreapp2.1\Choreography.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Exercie\Choreography\obj\Debug\netcoreapp2.1\Choreography.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\Choreography\obj\Debug\netcoreapp2.1\Choreography.pdb
+D:\MSVS\Projects\Conditional-Statements-Exercie\Choreography\obj\Debug\netcoreapp2.1\Choreography.csprojAssemblyReference.cache

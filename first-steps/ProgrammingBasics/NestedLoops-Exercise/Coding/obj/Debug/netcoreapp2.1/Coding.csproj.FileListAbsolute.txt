@@ -1,0 +1,10 @@
+D:\MSVS\Projects\NestedLoops-Exercise\Coding\bin\Debug\netcoreapp2.1\Coding.deps.json
+D:\MSVS\Projects\NestedLoops-Exercise\Coding\bin\Debug\netcoreapp2.1\Coding.runtimeconfig.json
+D:\MSVS\Projects\NestedLoops-Exercise\Coding\bin\Debug\netcoreapp2.1\Coding.runtimeconfig.dev.json
+D:\MSVS\Projects\NestedLoops-Exercise\Coding\bin\Debug\netcoreapp2.1\Coding.dll
+D:\MSVS\Projects\NestedLoops-Exercise\Coding\bin\Debug\netcoreapp2.1\Coding.pdb
+D:\MSVS\Projects\NestedLoops-Exercise\Coding\obj\Debug\netcoreapp2.1\Coding.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\NestedLoops-Exercise\Coding\obj\Debug\netcoreapp2.1\Coding.AssemblyInfoInputs.cache
+D:\MSVS\Projects\NestedLoops-Exercise\Coding\obj\Debug\netcoreapp2.1\Coding.AssemblyInfo.cs
+D:\MSVS\Projects\NestedLoops-Exercise\Coding\obj\Debug\netcoreapp2.1\Coding.dll
+D:\MSVS\Projects\NestedLoops-Exercise\Coding\obj\Debug\netcoreapp2.1\Coding.pdb

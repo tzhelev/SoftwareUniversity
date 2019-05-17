@@ -1,0 +1,11 @@
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Bakery\bin\Debug\netcoreapp2.1\Easter Bakery.deps.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Bakery\bin\Debug\netcoreapp2.1\Easter Bakery.runtimeconfig.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Bakery\bin\Debug\netcoreapp2.1\Easter Bakery.runtimeconfig.dev.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Bakery\bin\Debug\netcoreapp2.1\Easter Bakery.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Bakery\bin\Debug\netcoreapp2.1\Easter Bakery.pdb
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Bakery\obj\Debug\netcoreapp2.1\Easter Bakery.csprojAssemblyReference.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Bakery\obj\Debug\netcoreapp2.1\Easter Bakery.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Bakery\obj\Debug\netcoreapp2.1\Easter Bakery.AssemblyInfoInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Bakery\obj\Debug\netcoreapp2.1\Easter Bakery.AssemblyInfo.cs
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Bakery\obj\Debug\netcoreapp2.1\Easter Bakery.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Bakery\obj\Debug\netcoreapp2.1\Easter Bakery.pdb

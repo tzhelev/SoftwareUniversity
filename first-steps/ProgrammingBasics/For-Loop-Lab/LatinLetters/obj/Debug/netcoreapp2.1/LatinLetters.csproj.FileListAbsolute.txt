@@ -1,0 +1,10 @@
+D:\MSVS\Projects\For-Loop-Lab\LatinLetters\bin\Debug\netcoreapp2.1\LatinLetters.deps.json
+D:\MSVS\Projects\For-Loop-Lab\LatinLetters\bin\Debug\netcoreapp2.1\LatinLetters.runtimeconfig.json
+D:\MSVS\Projects\For-Loop-Lab\LatinLetters\bin\Debug\netcoreapp2.1\LatinLetters.runtimeconfig.dev.json
+D:\MSVS\Projects\For-Loop-Lab\LatinLetters\bin\Debug\netcoreapp2.1\LatinLetters.dll
+D:\MSVS\Projects\For-Loop-Lab\LatinLetters\bin\Debug\netcoreapp2.1\LatinLetters.pdb
+D:\MSVS\Projects\For-Loop-Lab\LatinLetters\obj\Debug\netcoreapp2.1\LatinLetters.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\LatinLetters\obj\Debug\netcoreapp2.1\LatinLetters.AssemblyInfoInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\LatinLetters\obj\Debug\netcoreapp2.1\LatinLetters.AssemblyInfo.cs
+D:\MSVS\Projects\For-Loop-Lab\LatinLetters\obj\Debug\netcoreapp2.1\LatinLetters.dll
+D:\MSVS\Projects\For-Loop-Lab\LatinLetters\obj\Debug\netcoreapp2.1\LatinLetters.pdb

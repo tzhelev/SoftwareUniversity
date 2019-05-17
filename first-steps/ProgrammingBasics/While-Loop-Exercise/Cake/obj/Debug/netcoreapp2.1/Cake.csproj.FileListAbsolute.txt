@@ -1,0 +1,10 @@
+D:\MSVS\Projects\While-Loop-Exercise\Cake\bin\Debug\netcoreapp2.1\Cake.deps.json
+D:\MSVS\Projects\While-Loop-Exercise\Cake\bin\Debug\netcoreapp2.1\Cake.runtimeconfig.json
+D:\MSVS\Projects\While-Loop-Exercise\Cake\bin\Debug\netcoreapp2.1\Cake.runtimeconfig.dev.json
+D:\MSVS\Projects\While-Loop-Exercise\Cake\bin\Debug\netcoreapp2.1\Cake.dll
+D:\MSVS\Projects\While-Loop-Exercise\Cake\bin\Debug\netcoreapp2.1\Cake.pdb
+D:\MSVS\Projects\While-Loop-Exercise\Cake\obj\Debug\netcoreapp2.1\Cake.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\While-Loop-Exercise\Cake\obj\Debug\netcoreapp2.1\Cake.AssemblyInfoInputs.cache
+D:\MSVS\Projects\While-Loop-Exercise\Cake\obj\Debug\netcoreapp2.1\Cake.AssemblyInfo.cs
+D:\MSVS\Projects\While-Loop-Exercise\Cake\obj\Debug\netcoreapp2.1\Cake.dll
+D:\MSVS\Projects\While-Loop-Exercise\Cake\obj\Debug\netcoreapp2.1\Cake.pdb

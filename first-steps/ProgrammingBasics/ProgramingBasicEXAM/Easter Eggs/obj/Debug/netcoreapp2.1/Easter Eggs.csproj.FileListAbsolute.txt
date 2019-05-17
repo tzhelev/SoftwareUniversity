@@ -1,0 +1,11 @@
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs\obj\Debug\netcoreapp2.1\Easter Eggs.csprojAssemblyReference.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs\obj\Debug\netcoreapp2.1\Easter Eggs.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs\obj\Debug\netcoreapp2.1\Easter Eggs.AssemblyInfoInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs\obj\Debug\netcoreapp2.1\Easter Eggs.AssemblyInfo.cs
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs\bin\Debug\netcoreapp2.1\Easter Eggs.deps.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs\bin\Debug\netcoreapp2.1\Easter Eggs.runtimeconfig.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs\bin\Debug\netcoreapp2.1\Easter Eggs.runtimeconfig.dev.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs\bin\Debug\netcoreapp2.1\Easter Eggs.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs\bin\Debug\netcoreapp2.1\Easter Eggs.pdb
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs\obj\Debug\netcoreapp2.1\Easter Eggs.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Eggs\obj\Debug\netcoreapp2.1\Easter Eggs.pdb

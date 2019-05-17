@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Conditional-Statements-Exercie\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.csprojAssemblyReference.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Exercie\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Exercie\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.deps.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Exercie\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\ThreeBrothers\bin\Debug\netcoreapp2.1\ThreeBrothers.pdb
+D:\MSVS\Projects\Conditional-Statements-Exercie\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.dll
+D:\MSVS\Projects\Conditional-Statements-Exercie\ThreeBrothers\obj\Debug\netcoreapp2.1\ThreeBrothers.pdb

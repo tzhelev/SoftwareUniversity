@@ -1,0 +1,11 @@
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Competition\bin\Debug\netcoreapp2.1\Easter Competition.deps.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Competition\bin\Debug\netcoreapp2.1\Easter Competition.runtimeconfig.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Competition\bin\Debug\netcoreapp2.1\Easter Competition.runtimeconfig.dev.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Competition\bin\Debug\netcoreapp2.1\Easter Competition.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Competition\bin\Debug\netcoreapp2.1\Easter Competition.pdb
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Competition\obj\Debug\netcoreapp2.1\Easter Competition.csprojAssemblyReference.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Competition\obj\Debug\netcoreapp2.1\Easter Competition.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Competition\obj\Debug\netcoreapp2.1\Easter Competition.AssemblyInfoInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Competition\obj\Debug\netcoreapp2.1\Easter Competition.AssemblyInfo.cs
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Competition\obj\Debug\netcoreapp2.1\Easter Competition.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Easter Competition\obj\Debug\netcoreapp2.1\Easter Competition.pdb

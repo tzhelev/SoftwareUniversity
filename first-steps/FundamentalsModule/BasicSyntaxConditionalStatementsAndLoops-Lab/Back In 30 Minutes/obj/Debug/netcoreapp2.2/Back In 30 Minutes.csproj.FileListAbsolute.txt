@@ -1,0 +1,11 @@
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Back In 30 Minutes\bin\Debug\netcoreapp2.2\Back In 30 Minutes.deps.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Back In 30 Minutes\bin\Debug\netcoreapp2.2\Back In 30 Minutes.runtimeconfig.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Back In 30 Minutes\bin\Debug\netcoreapp2.2\Back In 30 Minutes.runtimeconfig.dev.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Back In 30 Minutes\bin\Debug\netcoreapp2.2\Back In 30 Minutes.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Back In 30 Minutes\bin\Debug\netcoreapp2.2\Back In 30 Minutes.pdb
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Back In 30 Minutes\obj\Debug\netcoreapp2.2\Back In 30 Minutes.csprojAssemblyReference.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Back In 30 Minutes\obj\Debug\netcoreapp2.2\Back In 30 Minutes.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Back In 30 Minutes\obj\Debug\netcoreapp2.2\Back In 30 Minutes.AssemblyInfoInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Back In 30 Minutes\obj\Debug\netcoreapp2.2\Back In 30 Minutes.AssemblyInfo.cs
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Back In 30 Minutes\obj\Debug\netcoreapp2.2\Back In 30 Minutes.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Back In 30 Minutes\obj\Debug\netcoreapp2.2\Back In 30 Minutes.pdb

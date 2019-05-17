@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Conditional-Statements-Lab\DayOfWeek\bin\Debug\netcoreapp2.1\DayOfWeek.deps.json
+D:\MSVS\Projects\Conditional-Statements-Lab\DayOfWeek\bin\Debug\netcoreapp2.1\DayOfWeek.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Lab\DayOfWeek\bin\Debug\netcoreapp2.1\DayOfWeek.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Lab\DayOfWeek\bin\Debug\netcoreapp2.1\DayOfWeek.dll
+D:\MSVS\Projects\Conditional-Statements-Lab\DayOfWeek\bin\Debug\netcoreapp2.1\DayOfWeek.pdb
+D:\MSVS\Projects\Conditional-Statements-Lab\DayOfWeek\obj\Debug\netcoreapp2.1\DayOfWeek.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Lab\DayOfWeek\obj\Debug\netcoreapp2.1\DayOfWeek.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Lab\DayOfWeek\obj\Debug\netcoreapp2.1\DayOfWeek.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Lab\DayOfWeek\obj\Debug\netcoreapp2.1\DayOfWeek.dll
+D:\MSVS\Projects\Conditional-Statements-Lab\DayOfWeek\obj\Debug\netcoreapp2.1\DayOfWeek.pdb
+D:\MSVS\Projects\Conditional-Statements-Lab\DayOfWeek\obj\Debug\netcoreapp2.1\DayOfWeek.csprojAssemblyReference.cache

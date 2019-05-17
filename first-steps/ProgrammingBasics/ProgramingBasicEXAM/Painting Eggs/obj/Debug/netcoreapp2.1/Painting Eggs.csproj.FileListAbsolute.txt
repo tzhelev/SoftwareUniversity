@@ -1,0 +1,11 @@
+D:\MSVS\Projects\ProgramingBasicEXAM\Painting Eggs\obj\Debug\netcoreapp2.1\Painting Eggs.csprojAssemblyReference.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Painting Eggs\obj\Debug\netcoreapp2.1\Painting Eggs.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Painting Eggs\obj\Debug\netcoreapp2.1\Painting Eggs.AssemblyInfoInputs.cache
+D:\MSVS\Projects\ProgramingBasicEXAM\Painting Eggs\obj\Debug\netcoreapp2.1\Painting Eggs.AssemblyInfo.cs
+D:\MSVS\Projects\ProgramingBasicEXAM\Painting Eggs\bin\Debug\netcoreapp2.1\Painting Eggs.deps.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Painting Eggs\bin\Debug\netcoreapp2.1\Painting Eggs.runtimeconfig.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Painting Eggs\bin\Debug\netcoreapp2.1\Painting Eggs.runtimeconfig.dev.json
+D:\MSVS\Projects\ProgramingBasicEXAM\Painting Eggs\bin\Debug\netcoreapp2.1\Painting Eggs.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Painting Eggs\bin\Debug\netcoreapp2.1\Painting Eggs.pdb
+D:\MSVS\Projects\ProgramingBasicEXAM\Painting Eggs\obj\Debug\netcoreapp2.1\Painting Eggs.dll
+D:\MSVS\Projects\ProgramingBasicEXAM\Painting Eggs\obj\Debug\netcoreapp2.1\Painting Eggs.pdb

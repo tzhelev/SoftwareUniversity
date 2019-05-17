@@ -1,0 +1,11 @@
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\InvalidNumer\bin\Debug\netcoreapp2.1\InvalidNumer.deps.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\InvalidNumer\bin\Debug\netcoreapp2.1\InvalidNumer.runtimeconfig.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\InvalidNumer\bin\Debug\netcoreapp2.1\InvalidNumer.runtimeconfig.dev.json
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\InvalidNumer\bin\Debug\netcoreapp2.1\InvalidNumer.dll
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\InvalidNumer\bin\Debug\netcoreapp2.1\InvalidNumer.pdb
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\InvalidNumer\obj\Debug\netcoreapp2.1\InvalidNumer.csprojAssemblyReference.cache
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\InvalidNumer\obj\Debug\netcoreapp2.1\InvalidNumer.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\InvalidNumer\obj\Debug\netcoreapp2.1\InvalidNumer.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\InvalidNumer\obj\Debug\netcoreapp2.1\InvalidNumer.AssemblyInfo.cs
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\InvalidNumer\obj\Debug\netcoreapp2.1\InvalidNumer.dll
+D:\MSVS\Projects\Nested-Conditional-Statements-Lab\InvalidNumer\obj\Debug\netcoreapp2.1\InvalidNumer.pdb

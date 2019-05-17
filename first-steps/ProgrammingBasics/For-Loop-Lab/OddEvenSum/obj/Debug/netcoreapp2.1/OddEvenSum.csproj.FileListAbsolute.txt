@@ -1,0 +1,10 @@
+D:\MSVS\Projects\For-Loop-Lab\OddEvenSum\obj\Debug\netcoreapp2.1\OddEvenSum.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\OddEvenSum\obj\Debug\netcoreapp2.1\OddEvenSum.AssemblyInfoInputs.cache
+D:\MSVS\Projects\For-Loop-Lab\OddEvenSum\obj\Debug\netcoreapp2.1\OddEvenSum.AssemblyInfo.cs
+D:\MSVS\Projects\For-Loop-Lab\OddEvenSum\bin\Debug\netcoreapp2.1\OddEvenSum.deps.json
+D:\MSVS\Projects\For-Loop-Lab\OddEvenSum\bin\Debug\netcoreapp2.1\OddEvenSum.runtimeconfig.json
+D:\MSVS\Projects\For-Loop-Lab\OddEvenSum\bin\Debug\netcoreapp2.1\OddEvenSum.runtimeconfig.dev.json
+D:\MSVS\Projects\For-Loop-Lab\OddEvenSum\bin\Debug\netcoreapp2.1\OddEvenSum.dll
+D:\MSVS\Projects\For-Loop-Lab\OddEvenSum\bin\Debug\netcoreapp2.1\OddEvenSum.pdb
+D:\MSVS\Projects\For-Loop-Lab\OddEvenSum\obj\Debug\netcoreapp2.1\OddEvenSum.dll
+D:\MSVS\Projects\For-Loop-Lab\OddEvenSum\obj\Debug\netcoreapp2.1\OddEvenSum.pdb

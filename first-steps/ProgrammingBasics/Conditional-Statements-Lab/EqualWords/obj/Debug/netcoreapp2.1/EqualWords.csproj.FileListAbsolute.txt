@@ -1,0 +1,10 @@
+D:\MSVS\Projects\Conditional-Statements-Lab\EqualWords\obj\Debug\netcoreapp2.1\EqualWords.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Lab\EqualWords\obj\Debug\netcoreapp2.1\EqualWords.AssemblyInfoInputs.cache
+D:\MSVS\Projects\Conditional-Statements-Lab\EqualWords\obj\Debug\netcoreapp2.1\EqualWords.AssemblyInfo.cs
+D:\MSVS\Projects\Conditional-Statements-Lab\EqualWords\bin\Debug\netcoreapp2.1\EqualWords.deps.json
+D:\MSVS\Projects\Conditional-Statements-Lab\EqualWords\bin\Debug\netcoreapp2.1\EqualWords.runtimeconfig.json
+D:\MSVS\Projects\Conditional-Statements-Lab\EqualWords\bin\Debug\netcoreapp2.1\EqualWords.runtimeconfig.dev.json
+D:\MSVS\Projects\Conditional-Statements-Lab\EqualWords\bin\Debug\netcoreapp2.1\EqualWords.dll
+D:\MSVS\Projects\Conditional-Statements-Lab\EqualWords\bin\Debug\netcoreapp2.1\EqualWords.pdb
+D:\MSVS\Projects\Conditional-Statements-Lab\EqualWords\obj\Debug\netcoreapp2.1\EqualWords.dll
+D:\MSVS\Projects\Conditional-Statements-Lab\EqualWords\obj\Debug\netcoreapp2.1\EqualWords.pdb

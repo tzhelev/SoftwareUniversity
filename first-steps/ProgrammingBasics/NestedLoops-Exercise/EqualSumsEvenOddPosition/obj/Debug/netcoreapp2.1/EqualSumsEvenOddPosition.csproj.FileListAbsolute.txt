@@ -1,0 +1,11 @@
+D:\MSVS\Projects\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\netcoreapp2.1\EqualSumsEvenOddPosition.deps.json
+D:\MSVS\Projects\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\netcoreapp2.1\EqualSumsEvenOddPosition.runtimeconfig.json
+D:\MSVS\Projects\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\netcoreapp2.1\EqualSumsEvenOddPosition.runtimeconfig.dev.json
+D:\MSVS\Projects\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\netcoreapp2.1\EqualSumsEvenOddPosition.dll
+D:\MSVS\Projects\NestedLoops-Exercise\EqualSumsEvenOddPosition\bin\Debug\netcoreapp2.1\EqualSumsEvenOddPosition.pdb
+D:\MSVS\Projects\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp2.1\EqualSumsEvenOddPosition.csprojAssemblyReference.cache
+D:\MSVS\Projects\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp2.1\EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp2.1\EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+D:\MSVS\Projects\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp2.1\EqualSumsEvenOddPosition.AssemblyInfo.cs
+D:\MSVS\Projects\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp2.1\EqualSumsEvenOddPosition.dll
+D:\MSVS\Projects\NestedLoops-Exercise\EqualSumsEvenOddPosition\obj\Debug\netcoreapp2.1\EqualSumsEvenOddPosition.pdb

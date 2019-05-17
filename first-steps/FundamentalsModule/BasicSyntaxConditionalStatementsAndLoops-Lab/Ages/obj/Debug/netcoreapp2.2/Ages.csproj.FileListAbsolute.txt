@@ -1,0 +1,10 @@
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Ages\bin\Debug\netcoreapp2.2\Ages.deps.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Ages\bin\Debug\netcoreapp2.2\Ages.runtimeconfig.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Ages\bin\Debug\netcoreapp2.2\Ages.runtimeconfig.dev.json
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Ages\bin\Debug\netcoreapp2.2\Ages.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Ages\bin\Debug\netcoreapp2.2\Ages.pdb
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Ages\obj\Debug\netcoreapp2.2\Ages.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Ages\obj\Debug\netcoreapp2.2\Ages.AssemblyInfoInputs.cache
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Ages\obj\Debug\netcoreapp2.2\Ages.AssemblyInfo.cs
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Ages\obj\Debug\netcoreapp2.2\Ages.dll
+D:\MSVS\Projects\FundamentalModule\BasicSyntaxConditionalStatementsAndLoops-Lab\Ages\obj\Debug\netcoreapp2.2\Ages.pdb

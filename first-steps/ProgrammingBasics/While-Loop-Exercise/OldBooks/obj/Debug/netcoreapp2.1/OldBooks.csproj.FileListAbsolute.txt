@@ -1,0 +1,11 @@
+D:\MSVS\Projects\While-Loop-Exercise\OldBooks\bin\Debug\netcoreapp2.1\OldBooks.deps.json
+D:\MSVS\Projects\While-Loop-Exercise\OldBooks\bin\Debug\netcoreapp2.1\OldBooks.runtimeconfig.json
+D:\MSVS\Projects\While-Loop-Exercise\OldBooks\bin\Debug\netcoreapp2.1\OldBooks.runtimeconfig.dev.json
+D:\MSVS\Projects\While-Loop-Exercise\OldBooks\bin\Debug\netcoreapp2.1\OldBooks.dll
+D:\MSVS\Projects\While-Loop-Exercise\OldBooks\bin\Debug\netcoreapp2.1\OldBooks.pdb
+D:\MSVS\Projects\While-Loop-Exercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.csprojAssemblyReference.cache
+D:\MSVS\Projects\While-Loop-Exercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\While-Loop-Exercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.AssemblyInfoInputs.cache
+D:\MSVS\Projects\While-Loop-Exercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.AssemblyInfo.cs
+D:\MSVS\Projects\While-Loop-Exercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.dll
+D:\MSVS\Projects\While-Loop-Exercise\OldBooks\obj\Debug\netcoreapp2.1\OldBooks.pdb

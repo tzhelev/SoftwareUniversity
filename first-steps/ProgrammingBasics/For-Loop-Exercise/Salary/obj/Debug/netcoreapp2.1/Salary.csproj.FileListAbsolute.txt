@@ -1,0 +1,11 @@
+D:\MSVS\Projects\For-Loop-Exercise\Salary\obj\Debug\netcoreapp2.1\Salary.csprojAssemblyReference.cache
+D:\MSVS\Projects\For-Loop-Exercise\Salary\obj\Debug\netcoreapp2.1\Salary.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\For-Loop-Exercise\Salary\obj\Debug\netcoreapp2.1\Salary.AssemblyInfoInputs.cache
+D:\MSVS\Projects\For-Loop-Exercise\Salary\obj\Debug\netcoreapp2.1\Salary.AssemblyInfo.cs
+D:\MSVS\Projects\For-Loop-Exercise\Salary\bin\Debug\netcoreapp2.1\Salary.deps.json
+D:\MSVS\Projects\For-Loop-Exercise\Salary\bin\Debug\netcoreapp2.1\Salary.runtimeconfig.json
+D:\MSVS\Projects\For-Loop-Exercise\Salary\bin\Debug\netcoreapp2.1\Salary.runtimeconfig.dev.json
+D:\MSVS\Projects\For-Loop-Exercise\Salary\bin\Debug\netcoreapp2.1\Salary.dll
+D:\MSVS\Projects\For-Loop-Exercise\Salary\bin\Debug\netcoreapp2.1\Salary.pdb
+D:\MSVS\Projects\For-Loop-Exercise\Salary\obj\Debug\netcoreapp2.1\Salary.dll
+D:\MSVS\Projects\For-Loop-Exercise\Salary\obj\Debug\netcoreapp2.1\Salary.pdb

@@ -1,0 +1,11 @@
+D:\MSVS\Projects\NestedLoops-Exercise\Matrix\bin\Debug\netcoreapp2.1\Matrix.deps.json
+D:\MSVS\Projects\NestedLoops-Exercise\Matrix\bin\Debug\netcoreapp2.1\Matrix.runtimeconfig.json
+D:\MSVS\Projects\NestedLoops-Exercise\Matrix\bin\Debug\netcoreapp2.1\Matrix.runtimeconfig.dev.json
+D:\MSVS\Projects\NestedLoops-Exercise\Matrix\bin\Debug\netcoreapp2.1\Matrix.dll
+D:\MSVS\Projects\NestedLoops-Exercise\Matrix\bin\Debug\netcoreapp2.1\Matrix.pdb
+D:\MSVS\Projects\NestedLoops-Exercise\Matrix\obj\Debug\netcoreapp2.1\Matrix.csprojAssemblyReference.cache
+D:\MSVS\Projects\NestedLoops-Exercise\Matrix\obj\Debug\netcoreapp2.1\Matrix.csproj.CoreCompileInputs.cache
+D:\MSVS\Projects\NestedLoops-Exercise\Matrix\obj\Debug\netcoreapp2.1\Matrix.AssemblyInfoInputs.cache
+D:\MSVS\Projects\NestedLoops-Exercise\Matrix\obj\Debug\netcoreapp2.1\Matrix.AssemblyInfo.cs
+D:\MSVS\Projects\NestedLoops-Exercise\Matrix\obj\Debug\netcoreapp2.1\Matrix.dll
+D:\MSVS\Projects\NestedLoops-Exercise\Matrix\obj\Debug\netcoreapp2.1\Matrix.pdb
