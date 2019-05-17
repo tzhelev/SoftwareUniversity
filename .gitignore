@@ -87,6 +87,14 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.exe
+*.dll
+*.deps
+*.devh
+*.cache
+*.dgspec
+*.props
+*.targets
 
 # Chutzpah Test files
 _Chutzpah*
