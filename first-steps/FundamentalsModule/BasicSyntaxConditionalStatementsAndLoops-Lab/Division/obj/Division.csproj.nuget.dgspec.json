@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Division\\Division.csproj": {}
+    "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Division\\Division.csproj": {}
   },
   "projects": {
-    "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Division\\Division.csproj": {
+    "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Division\\Division.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Division\\Division.csproj",
+        "projectUniqueName": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Division\\Division.csproj",
         "projectName": "Division",
-        "projectPath": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Division\\Division.csproj",
+        "projectPath": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Division\\Division.csproj",
         "packagesPath": "C:\\Users\\Tuxy\\.nuget\\packages\\",
-        "outputPath": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Division\\obj\\",
+        "outputPath": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Division\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Print and Sum\\Print and Sum.csproj": {}
+    "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Print and Sum\\Print and Sum.csproj": {}
   },
   "projects": {
-    "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Print and Sum\\Print and Sum.csproj": {
+    "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Print and Sum\\Print and Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Print and Sum\\Print and Sum.csproj",
+        "projectUniqueName": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Print and Sum\\Print and Sum.csproj",
         "projectName": "Print and Sum",
-        "projectPath": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Print and Sum\\Print and Sum.csproj",
+        "projectPath": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Print and Sum\\Print and Sum.csproj",
         "packagesPath": "C:\\Users\\Tuxy\\.nuget\\packages\\",
-        "outputPath": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Print and Sum\\obj\\",
+        "outputPath": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Print and Sum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

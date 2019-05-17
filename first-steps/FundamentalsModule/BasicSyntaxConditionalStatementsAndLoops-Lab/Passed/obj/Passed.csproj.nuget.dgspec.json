@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Passed\\Passed.csproj": {}
+    "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Passed\\Passed.csproj": {}
   },
   "projects": {
-    "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Passed\\Passed.csproj": {
+    "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Passed\\Passed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Passed\\Passed.csproj",
+        "projectUniqueName": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Passed\\Passed.csproj",
         "projectName": "Passed",
-        "projectPath": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Passed\\Passed.csproj",
+        "projectPath": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Passed\\Passed.csproj",
         "packagesPath": "C:\\Users\\Tuxy\\.nuget\\packages\\",
-        "outputPath": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Passed\\obj\\",
+        "outputPath": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Passed\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Login\\Login.csproj": {}
+    "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Login\\Login.csproj": {}
   },
   "projects": {
-    "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Login\\Login.csproj": {
+    "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Login\\Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Login\\Login.csproj",
+        "projectUniqueName": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Login\\Login.csproj",
         "projectName": "Login",
-        "projectPath": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Login\\Login.csproj",
+        "projectPath": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Login\\Login.csproj",
         "packagesPath": "C:\\Users\\Tuxy\\.nuget\\packages\\",
-        "outputPath": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Login\\obj\\",
+        "outputPath": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\Login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

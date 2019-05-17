@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\StudentInformation\\StudentInformation.csproj",
+      "projectUniqueName": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\StudentInformation\\StudentInformation.csproj",
       "projectName": "StudentInformation",
-      "projectPath": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\StudentInformation\\StudentInformation.csproj",
+      "projectPath": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\StudentInformation\\StudentInformation.csproj",
       "packagesPath": "C:\\Users\\Tuxy\\.nuget\\packages\\",
-      "outputPath": "D:\\MSVS\\Projects\\FundamentalModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\StudentInformation\\obj\\",
+      "outputPath": "D:\\GitHubProjects\\first-steps\\FundamentalsModule\\BasicSyntaxConditionalStatementsAndLoops-Lab\\StudentInformation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
