@@ -10,7 +10,7 @@ namespace _05.SpecialNumbers
 
             for (int i = 1; i <= number; i++)
             {
-                int sum = 0;ewflkg
+                int sum = 0;
                 int digits = i;
 
                 while (digits > 0)
