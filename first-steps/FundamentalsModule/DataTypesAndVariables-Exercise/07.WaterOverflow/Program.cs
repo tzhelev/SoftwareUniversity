@@ -6,7 +6,26 @@ namespace _07.WaterOverflow
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numberLoading = int.Parse(Console.ReadLine());
+            int currentLitters = 0;
+           
+            for (int i = 0; i < numberLoading; i++)
+            {
+                
+                int capacity = 255;
+                int loadingLitters = int.Parse(Console.ReadLine());
+                if (currentLitters + loadingLitters > capacity)
+                {
+                    Console.WriteLine("Insufficient capacity!");
+                }
+                else
+                {
+                    currentLitters += loadingLitters;
+                }
+               
+
+            }
+            Console.WriteLine(currentLitters);
         }
     }
 }
