@@ -9,7 +9,7 @@ namespace _01.DayOfWeek
             string[] weekDays =
             {
                 "Monday",
-                "Tueday",
+                "Tuesday",
                 "Wednesday",
                 "Thursday",
                 "Friday",
@@ -24,7 +24,7 @@ namespace _01.DayOfWeek
             }
             else
             {
-                Console.WriteLine("Invalid Day!");
+                Console.WriteLine("Invalid day!");
             }
               
            
