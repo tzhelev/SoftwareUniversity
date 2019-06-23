@@ -8,7 +8,7 @@ namespace _10.TopNumber
         {
             int number = int.Parse(Console.ReadLine());
 
-           PrintConainingMasterNumbers(number);
+           PrintContainingMasterNumbers(number);
         }
 
         private static bool IsHoldingOddDigit(int number)
@@ -60,7 +60,7 @@ namespace _10.TopNumber
             return isDivisible;
         }
 
-        private static void PrintConainingMasterNumbers(int number)
+        private static void PrintContainingMasterNumbers(int number)
         {
              for (int i = 1; i <= number; i++)
             {

@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PalindromeIntegers", "09
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.TopNumber", "10.TopNumber\10.TopNumber.csproj", "{7B10A1F4-83B5-4895-A8BD-E35BAD24532D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ArrayManipulator (unsolved)", "11.ArrayManipulator\11.ArrayManipulator (unsolved).csproj", "{8373FF61-D5DF-443B-9AAA-CDF3BB35CD4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{7B10A1F4-83B5-4895-A8BD-E35BAD24532D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B10A1F4-83B5-4895-A8BD-E35BAD24532D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B10A1F4-83B5-4895-A8BD-E35BAD24532D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8373FF61-D5DF-443B-9AAA-CDF3BB35CD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8373FF61-D5DF-443B-9AAA-CDF3BB35CD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8373FF61-D5DF-443B-9AAA-CDF3BB35CD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8373FF61-D5DF-443B-9AAA-CDF3BB35CD4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
