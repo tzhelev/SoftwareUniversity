@@ -1,69 +1,53 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 
-namespace PartyProfit
+namespace EasterGifts
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-            List<string> giftList = Console.ReadLine().Split().ToList();
-            string command = string.Empty;
+            int partySize = int.Parse(Console.ReadLine());
+            int partyDays = int.Parse(Console.ReadLine());
 
-            while ((command = Console.ReadLine()) != "No Money")
+            double coins = 0.0;
+
+            for (int i = 1; i <= partyDays; i++)
             {
-                List<string> separatedCommand = command.Split().ToList();
+                bool motivationParty = i % 3 == 0;
+                bool slayMonster = i % 5 == 0;
+                bool tenthDay = i % 10 == 0;
+                bool fifteenthDay = i % 15 == 0;
 
-                if (command.Contains("OutOfStock"))
+                if (tenthDay)
                 {
-                    OutOfStock(giftList, separatedCommand);
+                    partySize -= 2;
                 }
 
-                if (command.Contains("Required"))
+                if (fifteenthDay)
                 {
-                    Required(giftList, separatedCommand);
+                    partySize += 5;
                 }
 
-                if (command.Contains("JustInCase"))
+                coins += 50 - (partySize * 2);
+
+                if (motivationParty)
                 {
-                    giftList.RemoveAt(giftList.Count - 1);
-                    giftList.Add(separatedCommand[1]);
+                    coins -= partySize * 3;
                 }
+
+                if (slayMonster)
+                {
+                    coins += partySize * 20;
+
+                    if (motivationParty)
+                    {
+                        coins -= partySize * 2;
+                    }
+                }
+
             }
 
-            for (int i = 0; i < giftList.Count; i++)
-            {
-                if (giftList[i] == "None")
-                {
-                    giftList.Remove(giftList[i]);
-                }
-            }
-
-            Console.WriteLine(string.Join(" ", giftList));
-        }
-
-        private static void Required(List<string> giftList, List<string> separatedCommand)
-        {
-
-            int.TryParse(separatedCommand[2], out int index);
-            if (index < giftList.Count - 1 && index >= 0)
-            {
-                giftList.RemoveAt(index);
-                giftList.Insert(index, separatedCommand[1]);
-            }
-        }
-
-        private static void OutOfStock(List<string> giftList, List<string> separatedCommand)
-        {
-            for (int i = 0; i < giftList.Count; i++)
-            {
-                if (giftList.Contains(separatedCommand[1]))
-                {
-                    giftList[giftList.FindIndex(ind => ind.Equals(separatedCommand[1]))]
-                        = "None";
-                }
-            }
+            Console.WriteLine($"{partySize} companions received {(int)(coins / partySize)} coins each.");
         }
     }
 }
