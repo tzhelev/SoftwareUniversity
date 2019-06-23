@@ -32,21 +32,20 @@ namespace PartyProfit
                 }
             }
 
-            for (int i = 0; i < giftList.Count; i++)
+            List<string> forPrint = new List<string>();
+
+            foreach (var item in giftList)
             {
-                if (giftList[i] == "None")
-                {
-                    giftList.Remove(giftList[i]);
-                }
+                if (item != "None") forPrint.Add(item);
             }
 
-            Console.WriteLine(string.Join(" ", giftList));
+            Console.WriteLine(string.Join(" ", forPrint));
         }
 
         private static void Required(List<string> giftList, List<string> separatedCommand)
         {
-            int.TryParse(separatedCommand[2], out int index);
-
+            int index = -1;
+            int.TryParse(separatedCommand[2], out index);
             if (index < giftList.Count - 1 && index >= 0)
             {
                 giftList.RemoveAt(index);
