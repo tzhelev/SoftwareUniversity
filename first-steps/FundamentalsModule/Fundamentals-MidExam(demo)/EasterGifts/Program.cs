@@ -32,7 +32,7 @@ namespace PartyProfit
                 }
             }
 
-            List<string> forPrint = new List<string>();
+           List<string> forPrint = new List<string>();
 
             foreach (var item in giftList)
             {
@@ -40,12 +40,12 @@ namespace PartyProfit
             }
 
             Console.WriteLine(string.Join(" ", forPrint));
-        }
+}
 
         private static void Required(List<string> giftList, List<string> separatedCommand)
         {
             int index = -1;
-            int.TryParse(separatedCommand[2], out index);
+            int.TryParse(separatedCommand[2], out  index);
             if (index < giftList.Count - 1 && index >= 0)
             {
                 giftList.RemoveAt(index);
